@@ -2,7 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andresss21)](https://github.com/anuraghazra/github-readme-stats)
 
-?style=plastic&logo=appveyor
 <!--
 **Andresss21/Andresss21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
