@@ -1,8 +1,7 @@
+# 👋 Hi, I'm [Your Name]!
 
-<div align="center">
-  <img src="https://ibb.co/tzrGJQn" alt="Banner GIF" style="width: 100%; border-radius: 10px;" />
-  <h1 style="color: white; margin-top: -50px; position: relative; z-index: 10;">👋 Hi, I'm Andres!</h1>
-</div>
+Welcome to my GitHub profile! I'm a passionate [Your Profession, e.g., "Full-Stack Developer"] who loves building amazing projects and contributing to open source.
+
 
 ---
 li
