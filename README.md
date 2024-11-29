@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://i.pinimg.com/originals/79/d1/92/79d19238535fc14831bd380bb776382e.gif](https://imgur.com/a/K3FPyUA)" alt="Banner GIF" style="width: 100%; border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/79/d1/92/79d19238535fc14831bd380bb776382e.gif" alt="Banner GIF" style="width: 100%; border-radius: 10px;" />
   <h1 style="color: white; margin-top: -50px; position: relative; z-index: 10;">👋 Hi, I'm Andres!</h1>
 </div>
 
