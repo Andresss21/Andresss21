@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Andresss21!
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession, e.g., "Full-Stack Developer"] who loves building amazing projects and contributing to open source.
+
+Software Developer passionate about coding and innovation. Since 2016, I've cultivated expertise across various programming languages and tools, enabling me to deliver versatile solutions in web and mobile development. I thrive in dynamic tech spaces, driven by adaptability and a commitment to lifelong learning.
 
 
 ---
