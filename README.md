@@ -1,12 +1,8 @@
 
-# 👋 Hi, I'm Andres!
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/79/d1/92/79d19238535fc14831bd380bb776382e.gif" alt="Banner GIF" style="width: 100%; border-radius: 10px;" />
   <h1 style="color: white; margin-top: -50px; position: relative; z-index: 10;">👋 Hi, I'm Andres!</h1>
 </div>
-
-Software Developer passionate about coding and innovation. Since 2016, I've cultivated expertise across various programming languages and tools, enabling me to deliver versatile solutions in web and mobile development. I thrive in dynamic tech spaces, driven by adaptability and a commitment to lifelong learning.
 
 ---
 li
