@@ -5,7 +5,7 @@ Software Developer passionate about coding and innovation. Since 2016, I've cult
 
 
 ---
-li
+Note most of my projects are in private repos or developed under company's account
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
